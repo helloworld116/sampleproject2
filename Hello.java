@@ -3,5 +3,6 @@ public class Hello {
     System.out.println("bugfix");
     System.out.println("brh");
     System.out.println("bugfix too");
+    System.out.println("what fuck");
   }
 }
